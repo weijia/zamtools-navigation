@@ -50,3 +50,11 @@ The zamtools-navigation context processors add `top_locations` and `current_loca
 `top_locations` is a list of all locations without parents that aren't hidden.
 
 `current_location` is the location that most closely matches the current url.  If no match is found, its value is `None`.
+
+= Testing =
+
+Tests can be performed using the standard Django test command.
+
+{{{
+> python manage.py test navigation
+}}}
