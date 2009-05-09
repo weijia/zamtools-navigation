@@ -1,5 +1,0 @@
-#Installation guide
-
-= Installation =
-
-= Usage =
