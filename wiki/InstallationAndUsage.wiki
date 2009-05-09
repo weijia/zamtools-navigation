@@ -56,5 +56,5 @@ The zamtools-navigation context processors add `top_locations` and `current_loca
 Tests can be performed using the standard Django test command.
 
 {{{
-> python manage.py test navigation
+> python manage.py test zamtools-navigation
 }}}
